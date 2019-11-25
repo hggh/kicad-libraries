@@ -13,6 +13,11 @@ HopeRF | RFM69CW | -
 
 
 ## footprint
-type | link
+info | type | link
 --- | ----
-CR2032 smd | - 
+battery holder | CR2032 smd | - 
+buzzer | KEPO KPM-G1240A-6390 | -
+terminal block | RND 205-00276 | [Reichelt  RND 205-00276](https://www.reichelt.de/loetbare-schraubklemme-2-pol-rm-5-mm-0-rnd-205-00276-p170255.html)
+terminal block | RND 205-00279 | [Reichelt RND 205-00279](https://www.reichelt.de/loetbare-schraubklemme-5-pol-rm-5-mm-0-rnd-205-00279-p170258.html)
+terminal block | RND 205-00280 | [Reichelt RND 205-00280](https://www.reichelt.de/loetbare-schraubklemme-6-pol-rm-5-mm-0-rnd-205-00280-p170259.html)
+terminal block | RND 205-00282 | [Reichelt RND 205-00282](https://www.reichelt.de/loetbare-schraubklemme-8-pol-rm-5-mm-0-rnd-205-00282-p170261.html)
