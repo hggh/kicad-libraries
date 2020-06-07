@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS63031DSKT
+D High EfficiencySingleInductorBuck-BoostConverterWith 1-A Switches
+K buck,boost
+F http://www.ti.com/lit/ds/symlink/tps63031.pdf?HQS=TI-null-null-mousermode-df-pf-null-wwe&ts=1591517168701&ref_url=https://www.mouser.de/
+$ENDCMP
+#
+#End Doc Library
