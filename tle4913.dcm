@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLE4913
+D low power hall switch
+K TLE4913
+F https://www.mouser.de/datasheet/2/196/TLE4913-1169629.pdf
+$ENDCMP
+#
+#End Doc Library
