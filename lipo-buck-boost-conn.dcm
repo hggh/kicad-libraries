@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP buck-boost-conn
+D Buck Boost inter pcb connection
+K tp4056
+$ENDCMP
+#
+#End Doc Library
