@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PL9823
+D RBG LED with Control IC at same body
+K PL9823-F8, PL9823-F5
+F http://akizukidenshi.com/download/ds/rita/pl9823.pdf
+$ENDCMP
+#
+#End Doc Library
