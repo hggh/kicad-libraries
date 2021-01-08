@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HT78xx
+D 500mA TinyPower LDO - SOT89
+K HT7818 HT7825 HT7827 HT7830 HT7833 HT7850
+F https://www.shotech.de/Datasheet/HT78xxv150.pdf
+$ENDCMP
+#
+#End Doc Library
