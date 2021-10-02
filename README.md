@@ -9,7 +9,6 @@ Hongfa | HF49FD-005-1H | [Reichelt HF49FD-005-1H](https://www.reichelt.de/slimli
 Holtek | HT7333 (HT73XX / HT7333-A) | - 
 MeanWell | IRM-05-5 | - |
 Fujitsu-Takamisawa | JS-5 MNK (LF) | [Reichelt JS 05 MN KT](https://www.reichelt.de/miniatur-leistungsrelais-js-5v-1-schliesser-8a-js-05-mn-kt-p79417.html)
-HopeRF | RFM69CW | - 
 
 
 ## footprint
