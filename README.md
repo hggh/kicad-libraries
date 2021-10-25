@@ -13,6 +13,7 @@ NXP | 74AHC125 | [datasheet](https://cdn-shop.adafruit.com/datasheets/74AHC125.p
 Microchip / ATMEL | AT42QT2120 | [datasheet](https://www.microchip.com/content/dam/mchp/documents/OTH/ProductDocuments/DataSheets/doc9634.pdf)
 Lumissil | IS31FL3730 | [datasheet](https://www.mouser.de/datasheet/2/198/IS31FL3730_DS-1949579.pdf)
 LiteOn | LTP-305G / LTP-305HR | [datasheet](https://eu.mouser.com/datasheet/2/239/LTP-305HR-1141619.pdf)
+Vishay | VEML7700 / VEML7700-TT | [datasheet(]https://www.mouser.de/datasheet/2/427/VISH_S_A0012091125_1-2572303.pdf)
 
 
 
