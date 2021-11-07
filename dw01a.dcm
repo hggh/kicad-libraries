@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DW01A
+D battery protection IC protect lion/lipo battery overcharge, overdischarge
+K battery, protection
+F https://datasheet.lcsc.com/szlcsc/1901091236_PUOLOP-DW01A_C351410.pdf
+$ENDCMP
+#
+#End Doc Library
